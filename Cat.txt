@@ -4,3 +4,4 @@ third developement was added
 test added
 fifth dev in project
 pull the before pushing the code to remote repositori
+pull the before pushing the code to remote repositori.
